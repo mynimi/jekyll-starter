@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>initium;</title>
+		<description></description>
+		<link>http://halfapx.com</link>
+		<atom:link href="http://halfapx.com/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Header Image</title>
+				
+				
+					<description>&lt;p&gt;In the front matter for this post, I added a header image. This image will be used on the main page, the blog page and within this post page. I also disabled the display of the title. So you won’t see the title written over the image.&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 06 Jan 2016 00:00:00 +0100</pubDate>
+				<link>http://halfapx.com/en/headerimage/</link>
+				<guid isPermaLink="true">http://halfapx.com/en/headerimage/</guid>
+			</item>
+		
+			<item>
+				<title>Headerbild</title>
+				
+				
+					<description>&lt;p&gt;In diesem Post wurde im Front Matter ein header Bild definiert. Das wird dann auf der Startseite, Der Blog-Übersicht und auf dieser Postseite verwendet. Ausserdem habe ich bei diesem Post die Anzeige des Titels ausgeschaltet. initium; wird also nicht über dem Bild stehen.&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 06 Jan 2016 00:00:00 +0100</pubDate>
+				<link>http://halfapx.com/headerbild/</link>
+				<guid isPermaLink="true">http://halfapx.com/headerbild/</guid>
+			</item>
+		
+			<item>
+				<title>Gallery</title>
+				
+				
+					<description>&lt;p&gt;You can also add a gallery to your blog posts. All you have to do is add the gallery info into your front matter, and then add an include within your content wherever you want the gallery to be placed.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 05 Jan 2016 00:00:00 +0100</pubDate>
+				<link>http://halfapx.com/en/gallery/</link>
+				<guid isPermaLink="true">http://halfapx.com/en/gallery/</guid>
+			</item>
+		
+			<item>
+				<title>Galerie</title>
+				
+				
+					<description>&lt;p&gt;In die Posts lassen sich auch Galerien einfügen. Alles was dazu gemacht werden muss, ist eine Sammlung der Bilder im Front Matter und ein Include im Content des Posts, an dem Ort, an dem die Galerie erscheinen soll.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 05 Jan 2016 00:00:00 +0100</pubDate>
+				<link>http://halfapx.com/galerie/</link>
+				<guid isPermaLink="true">http://halfapx.com/galerie/</guid>
+			</item>
+		
+			<item>
+				<title>Standard Post</title>
+				
+				
+					<description>&lt;p&gt;Das hier ist ein ganz gewöhnlicher Post.&lt;/p&gt;
+
+&lt;p&gt;Er ist in Markdown geschrieben, was super einfach zu lernen ist.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 04 Jan 2016 00:00:00 +0100</pubDate>
+				<link>http://halfapx.com/uebersichtspost/</link>
+				<guid isPermaLink="true">http://halfapx.com/uebersichtspost/</guid>
+			</item>
+		
+			<item>
+				<title>Standard Post</title>
+				
+				
+					<description>&lt;p&gt;This is just a simple post&lt;/p&gt;
+
+&lt;p&gt;It is written in markdown, which is super simple to learn.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 04 Jan 2016 00:00:00 +0100</pubDate>
+				<link>http://halfapx.com/en/overview/</link>
+				<guid isPermaLink="true">http://halfapx.com/en/overview/</guid>
+			</item>
+		
+	</channel>
+</rss>
