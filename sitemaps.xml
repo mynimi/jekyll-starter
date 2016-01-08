@@ -211,52 +211,12 @@
   </url>
   
   <url>
-    <loc>http://halfapx.com/tag/standard/</loc>
-    
-    
-      <xhtml:link rel="alternate" hreflang="de" href="http://halfapx.com/tag/standard/" />
-    
-      <xhtml:link rel="alternate" hreflang="en" href="http://halfapx.com/en/tag/standard/" />
-    
-  </url>
-  
-  <url>
-    <loc>http://halfapx.com/tag/post/</loc>
-    
-    
-      <xhtml:link rel="alternate" hreflang="de" href="http://halfapx.com/tag/post/" />
-    
-      <xhtml:link rel="alternate" hreflang="en" href="http://halfapx.com/en/tag/post/" />
-    
-  </url>
-  
-  <url>
-    <loc>http://halfapx.com/tag/header-pic/</loc>
-    
-    
-      <xhtml:link rel="alternate" hreflang="de" href="http://halfapx.com/tag/header-pic/" />
-    
-      <xhtml:link rel="alternate" hreflang="en" href="http://halfapx.com/en/tag/header-pic/" />
-    
-  </url>
-  
-  <url>
-    <loc>http://halfapx.com/tag/gallery/</loc>
-    
-    
-      <xhtml:link rel="alternate" hreflang="de" href="http://halfapx.com/tag/gallery/" />
-    
-      <xhtml:link rel="alternate" hreflang="en" href="http://halfapx.com/en/tag/gallery/" />
-    
-  </url>
-  
-  <url>
     <loc>http://halfapx.com/en/tag/standard/</loc>
     
     
-      <xhtml:link rel="alternate" hreflang="de" href="http://halfapx.com/tag/standard/" />
-    
       <xhtml:link rel="alternate" hreflang="en" href="http://halfapx.com/en/tag/standard/" />
+    
+      <xhtml:link rel="alternate" hreflang="de" href="http://halfapx.com/tag/standard/" />
     
   </url>
   
@@ -264,9 +224,9 @@
     <loc>http://halfapx.com/en/tag/post/</loc>
     
     
-      <xhtml:link rel="alternate" hreflang="de" href="http://halfapx.com/tag/post/" />
-    
       <xhtml:link rel="alternate" hreflang="en" href="http://halfapx.com/en/tag/post/" />
+    
+      <xhtml:link rel="alternate" hreflang="de" href="http://halfapx.com/tag/post/" />
     
   </url>
   
@@ -274,9 +234,9 @@
     <loc>http://halfapx.com/en/tag/header-pic/</loc>
     
     
-      <xhtml:link rel="alternate" hreflang="de" href="http://halfapx.com/tag/header-pic/" />
-    
       <xhtml:link rel="alternate" hreflang="en" href="http://halfapx.com/en/tag/header-pic/" />
+    
+      <xhtml:link rel="alternate" hreflang="de" href="http://halfapx.com/tag/header-pic/" />
     
   </url>
   
@@ -284,9 +244,49 @@
     <loc>http://halfapx.com/en/tag/gallery/</loc>
     
     
+      <xhtml:link rel="alternate" hreflang="en" href="http://halfapx.com/en/tag/gallery/" />
+    
       <xhtml:link rel="alternate" hreflang="de" href="http://halfapx.com/tag/gallery/" />
     
+  </url>
+  
+  <url>
+    <loc>http://halfapx.com/tag/standard/</loc>
+    
+    
+      <xhtml:link rel="alternate" hreflang="en" href="http://halfapx.com/en/tag/standard/" />
+    
+      <xhtml:link rel="alternate" hreflang="de" href="http://halfapx.com/tag/standard/" />
+    
+  </url>
+  
+  <url>
+    <loc>http://halfapx.com/tag/post/</loc>
+    
+    
+      <xhtml:link rel="alternate" hreflang="en" href="http://halfapx.com/en/tag/post/" />
+    
+      <xhtml:link rel="alternate" hreflang="de" href="http://halfapx.com/tag/post/" />
+    
+  </url>
+  
+  <url>
+    <loc>http://halfapx.com/tag/header-pic/</loc>
+    
+    
+      <xhtml:link rel="alternate" hreflang="en" href="http://halfapx.com/en/tag/header-pic/" />
+    
+      <xhtml:link rel="alternate" hreflang="de" href="http://halfapx.com/tag/header-pic/" />
+    
+  </url>
+  
+  <url>
+    <loc>http://halfapx.com/tag/gallery/</loc>
+    
+    
       <xhtml:link rel="alternate" hreflang="en" href="http://halfapx.com/en/tag/gallery/" />
+    
+      <xhtml:link rel="alternate" hreflang="de" href="http://halfapx.com/tag/gallery/" />
     
   </url>
   

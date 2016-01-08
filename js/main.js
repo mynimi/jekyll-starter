@@ -66,7 +66,7 @@ $(document).ready(function () {
 
         // make it so, that content fills at least whole window
         $('.wrapper').css({
-            'min-height': $(window).height() - $('.header').outerHeight() - $('.foot').outerHeight() - $('.menu').outerHeight() + 3 // don't ask why you need those 3px, it's the magic number
+            'min-height': $(window).height() - $('.header').outerHeight() - $('.foot').outerHeight() - $('.menu').outerHeight() - 8 // don't ask why you need those 3px, it's the magic number
         });
 
     }).resize(); // trigger resize handlers
