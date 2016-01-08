@@ -101,7 +101,7 @@ module.exports = function(grunt) {
             },
             pages: {
                 options: {
-                    remote: 'git@github.com:mynimi/mynimi.github.io.git', // change this to your remote!
+                    remote: 'git@github.com:mynimi/jekyll-starter.git', // change this to your remote!
                     branch: 'gh-pages'
                 }
             }
