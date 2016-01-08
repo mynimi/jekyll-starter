@@ -1,0 +1,43 @@
+// mixitup
+#container .mix{
+	display: none;
+}
+
+.filtering{
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+
+.portfolio-wrapper{
+    @include flexbox(row, wrap, flex-start, stretch);
+
+    .item-wrapper{
+        text-align: center;
+        @include rowMachine(3, 30px);
+
+        h3, h6{
+            font:{
+                family: $main-font;
+                weight: normal;
+            }
+            padding: 3px;
+        }
+
+        h6{
+            opacity: .7;
+            font-size: .8em;
+        }
+
+        @media screen and (max-width: $threetotwo) and (min-width: $twotoone + 1){
+            @include rowMachine(2, 30px);
+        }
+
+        @media screen and (max-width: $twotoone){
+            width: 100%;
+            margin-left: 0;
+            margin-bottom: 30px;
+        }
+
+    }
+}

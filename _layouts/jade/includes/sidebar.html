@@ -1,0 +1,23 @@
+{% if post.lang %}
+    {% assign l = post.lang %}
+{% elsif page.lang %}
+    {% assign l = page.lang %}
+{% elsif portfolio.lang %}
+    {% assign l = portfolio.lang %}
+{% endif %}
+
+{% if l == 'en' %}
+<div class="sidebar">
+    <p>I am the sidebar</p>
+    <p>Fill me with whatever you want!</p>
+    <p>Add Social Media Accounts</p>
+    <p>Or custom widgets</p>
+</div>
+{% elsif l == 'de' %}
+<div class="sidebar">
+    <p>Ich bin die Sidebar</p>
+    <p>Fülle mich mit was auch immer du willst!</p>
+    <p>Wie zum Beispiel deinen Social Media Accounts</p>
+    <p>Oder custom widgets</p>
+</div>
+{% endif %}
