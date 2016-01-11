@@ -69,7 +69,7 @@
           <h1>{{ site.name }}</h1>{% endif %}</a>{% endif %}
         {% else %}
         {% if page.layout == "index" %}{% if site.custom_logo %}<img src="{{site.img_dir | prepend: site.baseurl }}/{{ site.custom_logo }}">{% else %}
-        <h1>{{ site.name }}</h1>{% endif %}{% else %}<a href="{{ base }}/en" class="homelink"> {% if site.custom_logo %}<img src="{{site.img_dir | prepend: site.baseurl }}/{{ site.custom_logo }}">{% else %}
+        <h1>{{ site.name }}</h1>{% endif %}{% else %}<a href="{{ base }}/" style="{% if page.site-title-display == false %}opacity: 0{% else %}opacity: 1{% endif %}" class="homelink"> {% if site.custom_logo %}<img src="{{site.img_dir | prepend: site.baseurl }}/{{ site.custom_logo }}">{% else %}
           <h1>{{ site.name }}</h1>{% endif %}</a>{% endif %}
         {% endif %}
       </div>

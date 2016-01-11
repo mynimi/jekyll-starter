@@ -11,7 +11,7 @@ header.header(style="background-image: {% if page.header-pic %}url({{ site.img_d
         {% if page.layout == "index" %}
         {% if site.custom_logo %}#[img(src="{{site.img_dir | prepend: site.baseurl }}/{{ site.custom_logo }}")]{% else %}#[h1 {{ site.name }}]{% endif %}
         {% else %}
-        a(href="{{ base }}/en", class="homelink") 
+        a(href="{{ base }}/", class="homelink" style="{% if page.site-title-display == false %}opacity: 0{% else %}opacity: 1{% endif %}") 
             {% if site.custom_logo %}#[img(src="{{site.img_dir | prepend: site.baseurl }}/{{ site.custom_logo }}")]{% else %}#[h1 {{ site.name }}]{% endif %}
         {% endif %}
         {% endif %}
